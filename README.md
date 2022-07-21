@@ -13,7 +13,7 @@ This Repository contains Machine Learning Programs from scratch
 9. ID3 
 10. Random Forest 
 
-In case of any queries feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jyotimaurya09)
+In case of any query feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jyotimaurya09)
 
 ---
 ## About the Author
